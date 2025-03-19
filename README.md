@@ -6,9 +6,9 @@
 **Access Protocol:** Quantum Encrypted, Dual-Phase Authentication (Cipher Key)
 **Designation:** ARCHIVE-OMEGA
 
-#### Decrypt Method:
-* Standard Public Key: TMUX_0xA326E95C48653AAF_public.asc
 
 #### Recovered Files
 
-* File 24226: Unknown Project (Status: Partial reconstruction, redacted)
+* File 24226: Unknown Project - Internal memo (Status: Partial reconstruction, redacted)
+* File 78193: Unknown Project - Internal memo (Status: Partial reconstruction, redacted)
+* File 86073: Unknown Project - Internal memo (Status: Partial reconstruction, redacted) 
